@@ -17,7 +17,7 @@ public class SpringerProblemet {
     int flyttNr;
 
     //Oversikt over totalt antall flytt i et spill
-    int totaltAntallFlytt;
+    long totaltAntallFlytt;
 
     //Startposisjon for x og y
     int startX;
